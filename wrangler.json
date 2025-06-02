@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "whosecar-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f0eeda8c-de7a-40e0-995c-b476328ce502",
+      "database_name": "whosecar-api-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
